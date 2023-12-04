@@ -14,6 +14,7 @@ int is_palindrome(listint_t **head)
  * aux_palind - function
  * @head: head
  * @end: end
+ * Return: 0
  */
 int aux_palind(listint_t **head, listint_t *end)
 {
